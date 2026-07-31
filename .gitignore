@@ -1,0 +1,8 @@
+# OS clutter (Windows + Mac)
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Editor folders
+.vscode/
+.claude/
